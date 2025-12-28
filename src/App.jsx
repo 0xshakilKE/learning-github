@@ -4,7 +4,7 @@ import Homepage from './assets/Components/Homepage'
 const App = () => {
   return (
     <div>
-      <Homepage />
+
     </div>
   )
 }

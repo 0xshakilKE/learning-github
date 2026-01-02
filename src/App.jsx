@@ -5,6 +5,8 @@ const App = () => {
 
   let name = "Shakil Omondi"
   let school = "Bwanda Primary School"
+
+  let studentClass = "F4 CentralKE"
   return (
     <div>
 
